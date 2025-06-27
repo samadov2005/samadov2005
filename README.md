@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Assalomu alaykum! Men Avazbekman (samadov2005)
 
-<!--
-**samadov2005/samadov2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2-kurs talabasiman, Python, Django va Frontend bo‘yicha o‘zim mustaqil loyihalar qilaman.  
+🎯 Maqsadim — real loyihalar bilan o‘z portfolio va tajribamni kuchaytirish.
 
-Here are some ideas to get you started:
+## 🛠️ Biladigan texnologiyalar:
+- Python, Django
+- HTML, CSS, JavaScript
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Portfolio loyihalarim:
+- 📊 [kursish](https://github.com/samadov2005/kursish) — Qurilish monitoring loyihasi (ish davomida)
+- 📝 [matn](https://github.com/samadov2005/matn) — Python orqali matn ishlov berish
+- 🧮 [vazifa](https://github.com/samadov2005/vazifa) — Karatsuba algoritmi (Divide and Conquer)
+
+📫 Aloqa: avazbek@example.com (yoki Telegram: @username)
