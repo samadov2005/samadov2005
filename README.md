@@ -13,4 +13,4 @@
 - 📝 [matn](https://github.com/samadov2005/matn) — Python orqali matn ishlov berish
 - 🧮 [vazifa](https://github.com/samadov2005/vazifa) — Karatsuba algoritmi (Divide and Conquer)
 
-📫 Aloqa: avazbek@example.com (yoki Telegram: @username)
+📫 Aloqa: avazbeksamadov9353@gmail.com (yoki Telegram: @samadov2005)
