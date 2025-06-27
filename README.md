@@ -1,6 +1,6 @@
 # 👋 Assalomu alaykum! Men Avazbekman (samadov2005)
 
-🎓 2-kurs talabasiman, Python, Django va Frontend bo‘yicha o‘zim mustaqil loyihalar qilaman.  
+🎓 3-kurs talabasiman, Python, Django va Frontend bo‘yicha o‘zim mustaqil loyihalar qilaman.  
 🎯 Maqsadim — real loyihalar bilan o‘z portfolio va tajribamni kuchaytirish.
 
 ## 🛠️ Biladigan texnologiyalar:
